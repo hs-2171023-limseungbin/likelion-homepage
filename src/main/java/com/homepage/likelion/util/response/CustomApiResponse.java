@@ -17,12 +17,12 @@ public class CustomApiResponse<T> {
     private String message;
 
     //성공
-    public static<T> CustomApiResponse<T> createSuccess(int status, T data, String message) {
+    public static <T> CustomApiResponse<T> createSuccess(int status, T data, String message) {
         return new CustomApiResponse<>(status, data, message);
     }
 
     //실패
-    public static<T> CustomApiResponse<T> createFaliWithout(int status, String message) {
+    public static<T> CustomApiResponse<T> createFailWithout(int status, String message) {
         return new CustomApiResponse<>(status, null, message);
     }
 }
