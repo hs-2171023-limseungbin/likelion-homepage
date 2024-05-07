@@ -1,4 +1,4 @@
-package com.homepage.likelion.test;
+package com.homepage.likelion.test.tmp.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;

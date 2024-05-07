@@ -1,4 +1,4 @@
-package com.homepage.likelion.test;
+package com.homepage.likelion.test.tmp.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
