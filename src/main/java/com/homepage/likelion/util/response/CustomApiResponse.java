@@ -22,7 +22,7 @@ public class CustomApiResponse<T> {
     }
 
     //실패
-    public static<T> CustomApiResponse<T> createFailWithout(int status, String message) {
+    public static<T> CustomApiResponse<T> createFailWithoutData(int status, String message) {
         return new CustomApiResponse<>(status, null, message);
     }
 }
