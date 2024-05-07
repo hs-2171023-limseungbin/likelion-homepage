@@ -1,5 +1,6 @@
 package com.homepage.likelion.test.domain;
 
+import com.homepage.likelion.util.entity.BaseEntity;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -13,7 +14,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class User {
+public class User extends BaseEntity {
 
     @Id@GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="id")
