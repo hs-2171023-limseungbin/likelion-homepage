@@ -1,0 +1,18 @@
+
+š
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ö„‘ÞJ$9586f496-c435-4d02-81aa-8dd9c1733998
+Ÿ
+java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "result".(êþŠ“üÿÿÿÿJ$b41b7f72-1a2f-4b10-81e6-f3afab081d05
+Ÿ
+java:S1488("^Immediately return this expression instead of assigning it to the temporary variable "result".(·’¸§üÿÿÿÿJ$2bf8bcf2-0a79-4adc-aac3-7ed7b4a1ae03
+š
+java:S14881"^Immediately return this expression instead of assigning it to the temporary variable "result".(¾ˆºÃJ$22081a68-ce07-41e2-a38d-d8540043229c
+g
+java:S1452"&Remove usage of generic wildcard type.(ÑÄäßÿÿÿÿÿJ$6051b579-cced-43d8-8f9e-9268376fb4f7
+b
+java:S1452"&Remove usage of generic wildcard type.(·ÓÞÝJ$a23d510b-b1dc-4605-a70c-0e808099cf95
+b
+java:S1452'"&Remove usage of generic wildcard type.(Ç¾©æJ$de18352c-a6b5-48c8-b280-9baebfba11ad
+b
+java:S1452."&Remove usage of generic wildcard type.(ÑïÄ›J$38ff2769-7798-4d39-9ab8-c97abc7d89ce
+f	java:S1060"+Replace this use of System.out by a logger.(‘ýµ•J$ade610da-299e-4b73-b1c9-cc0d2fbf82c6
