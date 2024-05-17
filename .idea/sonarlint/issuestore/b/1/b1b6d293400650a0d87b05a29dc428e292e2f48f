@@ -1,18 +1,18 @@
 
 š
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ö„‘ÞJ$9586f496-c435-4d02-81aa-8dd9c1733998
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ö„‘ÞJ$ff0803a0-fe67-4486-95bf-440ed5b1e9e2
 Ÿ
-java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "result".(êþŠ“üÿÿÿÿJ$b41b7f72-1a2f-4b10-81e6-f3afab081d05
+java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "result".(êþŠ“üÿÿÿÿJ$6eb6ca5c-bc57-48a3-9f3d-f05e9175e25b
 Ÿ
-java:S1488("^Immediately return this expression instead of assigning it to the temporary variable "result".(·’¸§üÿÿÿÿJ$2bf8bcf2-0a79-4adc-aac3-7ed7b4a1ae03
+java:S1488("^Immediately return this expression instead of assigning it to the temporary variable "result".(·’¸§üÿÿÿÿJ$740b908b-6c7d-49cc-8435-c52c06a3a09a
 š
-java:S14881"^Immediately return this expression instead of assigning it to the temporary variable "result".(¾ˆºÃJ$22081a68-ce07-41e2-a38d-d8540043229c
+java:S14881"^Immediately return this expression instead of assigning it to the temporary variable "result".(¾ˆºÃJ$8ca47fd0-66dd-4c1b-a769-637d18b9bfb6
 g
-java:S1452"&Remove usage of generic wildcard type.(ÑÄäßÿÿÿÿÿJ$6051b579-cced-43d8-8f9e-9268376fb4f7
+java:S1452"&Remove usage of generic wildcard type.(ÑÄäßÿÿÿÿÿJ$0b484d04-0223-4b7a-bbe4-3b4d2349c78c
 b
-java:S1452"&Remove usage of generic wildcard type.(·ÓÞÝJ$a23d510b-b1dc-4605-a70c-0e808099cf95
+java:S1452"&Remove usage of generic wildcard type.(·ÓÞÝJ$e57dae62-24af-4099-8d14-291998759439
 b
-java:S1452'"&Remove usage of generic wildcard type.(Ç¾©æJ$de18352c-a6b5-48c8-b280-9baebfba11ad
+java:S1452'"&Remove usage of generic wildcard type.(Ç¾©æJ$a9b8eb92-30b0-4356-a78b-d4c118009789
 b
-java:S1452."&Remove usage of generic wildcard type.(ÑïÄ›J$38ff2769-7798-4d39-9ab8-c97abc7d89ce
-f	java:S1060"+Replace this use of System.out by a logger.(‘ýµ•J$ade610da-299e-4b73-b1c9-cc0d2fbf82c6
+java:S1452."&Remove usage of generic wildcard type.(ÑïÄ›J$c92cb7f7-91eb-4189-967c-5225363a34a7
+f	java:S1060"+Replace this use of System.out by a logger.(‘ýµ•J$053385ab-0bce-4a00-bde8-7ba1ab49fe8f
